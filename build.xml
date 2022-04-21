@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="Football_Management" default="default" basedir=".">
+    <description>Builds, tests, and runs the project Football Management.</description>
+    <import file="nbproject/build-impl.xml"/>
+
+</project>
